@@ -46,6 +46,22 @@ html{
 .person-img{
     width: 25rem;
     height: 25rem;
-    
+    object-fit: cover;
+    border-radius: 50%;
+    border: .7rem dotted #e41c6f;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: .5rem;
+    opacity: 0.9;
 }
+
+.person-name{
+    font-size: 2rem;
+    color: #fff;
+    background-color: #e41c6f;
+    margin: 5rem 0rem;
+    padding: 0.5rem 3rem;
+    letter-spacing: .3rem;
+    transform: skew(-10deg);
+}
+
 /* end of section 1 */
