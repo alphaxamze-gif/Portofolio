@@ -6,7 +6,12 @@
     box-sizing: border-box;
     text-decoration: none;
     list-style-type: none;
-    font-family: "Jost" sans-serif;
+    font-family: 'Jost',sans-serif;
     font-weight: 400;
+}
+
+
+html{
+    font-size: 62.5%;
 }
 /* end of reset and common styles  */
